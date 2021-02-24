@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define SIZE 15
+#define SIZE 17
 
 int main()
 {
